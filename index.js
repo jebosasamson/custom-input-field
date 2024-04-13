@@ -8,7 +8,6 @@ let button = document.querySelector('.button')
 let value = document.querySelector('.number')
 
 const numberChange = function(){}
-
-button.addEventListener('click',function()){
+button.addEventListener('click', function()){
 
 }
